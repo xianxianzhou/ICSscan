@@ -1,0 +1,32 @@
+[
+  {
+    "apiUrl": "http://52.220.252.160:1317",
+    "chainId": "",
+    "height": "",
+    "reboot": false
+  },
+  {
+    "apiUrl": "http://34.80.93.133:1317",
+    "chainId": "",
+    "height": "",
+    "reboot": false
+  },
+  {
+    "apiUrl": "",
+    "chainId": "",
+    "height": "",
+    "reboot": false
+  },
+  {
+    "apiUrl": "",
+    "chainId": "",
+    "height": "",
+    "reboot": false
+  },
+  {
+    "apiUrl": "",
+    "chainId": "",
+    "height": "",
+    "reboot": false
+  }
+]
